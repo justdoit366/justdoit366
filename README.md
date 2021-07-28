@@ -71,6 +71,9 @@ Here are some ideas to get you started:
 ![justdoit366's github stats](https://github-readme-stats.vercel.app/api?username=justdoit366&show_icons=true&theme=dracula)
 -->
 
+![](https://komarev.com/ghpvc/?username=justdoit366)
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
